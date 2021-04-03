@@ -1,10 +1,11 @@
-## What's up y'all? 👋
+## What’s up y’all? 👋
 
 ### My name is Thanos, and I am an undergraduate Computer Science student in AUTh, Greece.
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I’m in the fourth semester of my studies.
+- 🌱 I’m most interested into Algorithms, Data Structures and AI. 
+- 🥅 My goals this year are to learn new staff and upload more projects.
+- ⚡ In my free time I like to play MMOs and hang out with friends.
+
+
 
